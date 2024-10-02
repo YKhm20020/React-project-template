@@ -1,3 +1,18 @@
+# 本リポジトリについて
+本リポジトリは、[Vite × React × TanStack Router で始める快適フロント開発環境の構築](https://qiita.com/hogeta_KL/items/c213a563c0ba58705f72) と題して Qiita へ投稿した記事の手順を踏み、環境構築を済ませたテンプレートのリポジトリです。
+
+記事に従って環境構築するのは面倒だという方は、こちらのリポジトリをフォークしてお使いください。
+
+## 主な使用技術
+- Node.js
+- Vite
+- React
+- tailwindcss
+- TanStack Router
+- Storybook
+
+以降、Vite 導入時に書き込まれた文章になります。
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
