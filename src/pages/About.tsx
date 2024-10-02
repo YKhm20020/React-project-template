@@ -1,3 +1,5 @@
+import type React from 'react';
+
 export const About: React.FC = () => {
     return (
         <div className='min-h-screen w-screen flex justify-center items-center'>
